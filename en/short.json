@@ -1,0 +1,21 @@
+{
+    "version": "0.0.1",
+    "type": "short",
+    "language:": "en",
+    "description": "Short rss feeds without the entire post",
+    "list": [
+        "https://www.omgubuntu.co.uk/feed"
+    ],
+    "discovery": {
+        "https://www.omgubuntu.co.uk/feed": {
+            "name": "omgubuntu",
+            "types": [
+                "linux",
+                "tech",
+                "open-source"
+            ],
+            "icon": "https://www.omgubuntu.co.uk/wp-content/uploads/2020/04/cropped-ava-tar-512x512.png",
+            "description": "Ubuntu Linux News, Apps and Reviews."
+        }
+    }
+}

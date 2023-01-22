@@ -1,0 +1,17 @@
+{
+    "version": "x.x.x",
+    "type": "LIST_TYPE",
+    "language:": "LIST_LANGUAGE",
+    "description": "LIST_DESCRIPTION",
+    "list": [
+        "RSS_LINK"
+    ],
+    "discovery": {
+        "RSS_LINK": {
+            "name": "RSS_NAME",
+            "type": "RSS_TYPE",
+            "icon": "RSS_ICON",
+            "description": "RSS_DESCRIPTION"
+        }
+    }
+}
